@@ -17,28 +17,28 @@
 
 
 ul.navbar {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    background-color: #f1f1f1;
-    overflow: hidden;
-  }
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #f1f1f1;
+  overflow: hidden;
+}
 
-  /* Style the individual navigation items */
-  ul.navbar li {
-    float: right;
-  }
+/* Style the individual navigation items */
+ul.navbar li {
+  float: left;
+}
 
-  ul.navbar li a {
-    display: block;
-    color: #333;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
+ul.navbar li a {
+  display: block;
+  color: #333;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
 
-  /* Change the color of the active navigation item */
-  ul.navbar li a.active {
-    background-color: #4CAF50;
-    color: white;
-  }
+/* Change the color of the active navigation item */
+ul.navbar li a.active {
+  background-color: #4CAF50;
+  color: white;
+}

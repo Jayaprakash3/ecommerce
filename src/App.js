@@ -1,20 +1,18 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './App.css';
-import Menus from './Menus';
-import MyComponent from './Mobiles';
+import Home from './home';
+import Addpage from './Addpage';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
-class App extends Component {
-  render() {
-
-    
-    return (
-      <div className="App">
-       <Menus />
-       <MyComponent />
-
-      </div>
-    );
-  }
+function App() {
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/Addpage" element={<Addpage />} />
+      </Routes>
+    </BrowserRouter>
+  );
 }
 
 export default App;
