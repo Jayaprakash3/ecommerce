@@ -2,68 +2,68 @@
     {
         "model": "iPhone 13",
         "price": "$999",
-        "ram": "88GB",
+        "ram": "8GB",
         "image": "samsung11.jpeg"
     },
     {
         "model": "Samsung Galaxy S21",
         "price": "$899",
-        "ram": "888GB",
+        "ram": "8GB",
         "image": "galaxys21.jpeg"
     },
     {
         "model": "Google Pixel 6",
         "price": "$799",
-        "ram": "88GB",
+        "ram": "4GB",
         "image": "pixel6.jpg"
     },
     {
         "model": "OnePlus 9",
         "price": "$899",
-        "ram": "88GB",
+        "ram": "4GB",
         "image": "oneplus9.jpg"
     },
     {
         "model": "Xiaomi Mi 11",
         "price": "$799",
-        "ram": "88GB",
+        "ram": "4GB",
         "image": "Xiaomi Mi 11.jpeg"
     },
     {
-        "model": "shivam",
+        "model": "gvelvet",
         "price": "$699",
         "ram": "6GB",
-        "image": "lgvelvet.jpeg"
+        "image": "pixel6.jpg"
     },
     {
         "model": "Sony Xperia 5 II",
         "price": "$999",
         "ram": "8GB",
-        "image": "sonyxperia5ii.jpeg"
+        "image": "oneplus9.jpg"
     },
     {
         "model": "Huawei P40 Pro",
         "price": "$899",
         "ram": "8GB",
-        "image": "huaweip40pro.jpeg"
+        "image": "oneplus9.jpg"
     },
     {
         "model": "Motorola Edge",
         "price": "$699",
         "ram": "6GB",
-        "image": "motorolaedge.jpeg"
+        "image": "samsung11.jpeg"
     },
     {
         "model": "Nokia 8.3",
         "price": "$599",
         "ram": "6GB",
-        "image": "nokia8.3.jpeg"
+        "image": "vivox60pro.jpeg"
     },
     {
         "model": "ASUS ROG Phone 5",
         "price": "$999",
         "ram": "8GB",
-        "image": "asusrogphone5.jpeg"
+        "image": "vivox60pro.jpeg"
     },
     {
         "model": "Lenovo Legion Phone Duel",
@@ -87,6 +87,6 @@
         "model": "Realme GT",
         "price": "$699",
         "ram": "6GB",
-        "image": "realmegt.jpeg"
+        "image": "lenovolegionphoneduel.jpeg"
     }
 ]
