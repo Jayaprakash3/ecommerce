@@ -2,35 +2,35 @@
     {
         "model": "iPhone 13",
         "price": "$999",
-        "ram": "8GB",
+        "ram": "88GB",
         "image": "samsung11.jpeg"
     },
     {
         "model": "Samsung Galaxy S21",
         "price": "$899",
-        "ram": "4GB",
+        "ram": "888GB",
         "image": "galaxys21.jpeg"
     },
     {
         "model": "Google Pixel 6",
         "price": "$799",
-        "ram": "6GB",
+        "ram": "88GB",
         "image": "pixel6.jpg"
     },
     {
         "model": "OnePlus 9",
         "price": "$899",
-        "ram": "4GB",
+        "ram": "88GB",
         "image": "oneplus9.jpg"
     },
     {
         "model": "Xiaomi Mi 11",
         "price": "$799",
-        "ram": "4GB",
+        "ram": "88GB",
         "image": "Xiaomi Mi 11.jpeg"
     },
     {
-        "model": "lgvelvet",
+        "model": "shivam",
         "price": "$699",
         "ram": "6GB",
         "image": "lgvelvet.jpeg"
@@ -39,7 +39,7 @@
         "model": "Sony Xperia 5 II",
         "price": "$999",
         "ram": "8GB",
-        "image": "sonyexperia.jpeg"
+        "image": "sonyxperia5ii.jpeg"
     },
     {
         "model": "Huawei P40 Pro",
